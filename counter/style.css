@@ -1,0 +1,26 @@
+html,body{
+    margin-top: 10%;
+    margin-left: 20%;
+    background-color: aquamarine;
+    /* text-align: center; */
+}
+#counter{
+    margin-left: 8%;
+    /* text-align: center; */
+}
+.btn{
+    padding:12px 24px;
+    border-radius: 5px;
+    cursor: pointer;
+    color:white;
+}
+.increment{
+    background-color:greenyellow
+
+}
+.reset{
+    background-color: blueviolet;
+}
+.decrement{
+    background-color: red;
+}
